@@ -56,18 +56,10 @@ function ScreenA2() {
 }
 
 
-// Screens del Primer Stack
-
-function ScreenB1() {...}
-
-function ScreenB2() {...}
+// Screens del Primer Stackfunction ScreenB1() {...}function ScreenB2() {...}
 
 
-// Screens del Tercer Stack
-
-function ScreenC1() {...}
-
-function ScreenC2() {...}
+// Screens del Tercer Stackfunction ScreenC1() {...}function ScreenC2() {...}
 
 
 //
@@ -100,9 +92,9 @@ function StackANavigator() {
 }
 
 
-function StackBNavigator() {...}
+//function StackBNavigator() {...}
 
-function StackCNavigator() {...}
+//function StackCNavigator() {...}
 
 
 //
